@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-urban-realism-memory-identity",
+  "title": "The Avalon's Ghost Signal",
+  "tagline": "In a city being erased, two siblings must decode their past before developers wipe their future from the map.",
+  "target_words": 70000,
+  "actual_words": 78134,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Digital vs. Physical Memory",
+    "Gentrification as Cultural Amnesia",
+    "Sibling Identity in a Fracturing World",
+    "Urban Space as Living Archive"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Voluntold",
+      "words": 3250
+    },
+    {
+      "ch": 2,
+      "title": "Scanned and Filed",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "Basement Cartography",
+      "words": 2980
+    },
+    {
+      "ch": 4,
+      "title": "Deacon's Cache",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Liza's Layer",
+      "words": 3050
+    },
+    {
+      "ch": 6,
+      "title": "WISP's Fading Bird",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "Pot Roast Truths",
+      "words": 3150
+    },
+    {
+      "ch": 8,
+      "title": "The Ghost in the Marquee",
+      "words": 3320
+    },
+    {
+      "ch": 9,
+      "title": "Data Retrieval, Soul Retrieval",
+      "words": 3400
+    },
+    {
+      "ch": 10,
+      "title": "The Miller Check",
+      "words": 2980
+    },
+    {
+      "ch": 11,
+      "title": "Analog in a Digital Storm",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "The Tunnel Hypothesis",
+      "words": 3250
+    },
+    {
+      "ch": 13,
+      "title": "Sal's Warning",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Elias Becoming",
+      "words": 3350
+    },
+    {
+      "ch": 15,
+      "title": "Jasmine Watching",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Blueprint Leak",
+      "words": 3600
+    },
+    {
+      "ch": 17,
+      "title": "Community Garden Council",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "The Bricked Phone",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "Front Door vs. Sidewalk",
+      "words": 2850
+    },
+    {
+      "ch": 20,
+      "title": "Archiving the Aura",
+      "words": 3700
+    },
+    {
+      "ch": 21,
+      "title": "Condos and Juice Bars",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "The Final Scan",
+      "words": 3900
+    },
+    {
+      "ch": 23,
+      "title": "Not Rotting, Waiting",
+      "words": 3750
+    },
+    {
+      "ch": 24,
+      "title": "The Signal Sent",
+      "words": 3554
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'digital ghost'—a piece of data or AR layer left behind in a soon-to-be-demolished location that tells a personal story.",
+      "Create a monologue from the perspective of a building (like the Avalon) experiencing its final days, sensing the scans and preparations for its end.",
+      "Draft a text message thread between Jasmine and a friend after a fight with Eli, exploring communication gaps and unsaid things.",
+      "Write a 'urban myth' for the neighborhood about the Avalon's supposed tunnel, showing how community lore is created and sustained."
+    ],
+    "technical": [
+      "Design a conceptual 'Memory Mapping' app interface that allows users to tag physical locations with digital memories, photos, or voice notes, visualizing how a place's story layers over time.",
+      "Outline a system for 'Ethical Digital Preservation' of community spaces facing demolition—what data (stories, sounds, textures, layouts) should be saved, and in what format, to truly capture its essence?"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf (stream of consciousness & interiority)",
+      "William Gibson (cyberpunk sensibility & near-future texture)",
+      "Zadie Smith (urban realism & multicultural identity)",
+      "Jorge Luis Borges (labyrinths, memory, and archives)"
+    ]
+  },
+  "cover_prompt": "Two teenage siblings, a brother and sister, stand back-to-back in a protective stance, their forms partially composed of glitching, translucent digital data and partially of solid, weathered concrete, as they reach out to touch both a crumbling brick wall covered in vibrant, layered street art and a shimmering, holographic data-stream floating in the air before them. The scene is a narrow, rain-slicked alley in a rapidly gentrifying city district, where futuristic augmented-reality advertisements and construction cranes loom over historic, graffiti-tagged buildings that are fading like ghosts; spectral echoes of past residents and old neon signs flicker amidst the physical decay and digital overlay. In the atmospheric style of Simon Stålenhag and Beeple, blending hyper-detailed urban realism with ethereal digital decay and poignant narrative. Book cover framing, centered and intimate composition with a dramatic low-angle shot looking up at the siblings against the towering, conflicting cityscape. Cinematic chiaroscuro lighting with pockets of cold, electric blue and neon magenta from the digital elements contrasting with the warm, dim amber of a single surviving streetlamp, all set against a palette of desaturated concrete grays and muted asphalt. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
