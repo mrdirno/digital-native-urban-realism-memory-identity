@@ -1,6 +1,10 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The city breathes in wet, concrete gasps. Rain from two hours ago evaporates off the asphalt in visible, greasy tendrils, making the whole block look like it’s sweating. My phone buzzes against my thigh, a persistent, angry insect. I know who it is without looking. Ma. The third call. The one that means *I’m not asking anymore, I’m telling*. I let it go to voicemail, the vibration dying into a dull hum that gets swallowed by the bass line thumping from Big Leon’s speaker setup in his open garage three doors down.
+Jenna’s phone buzzed against the diner tabletop, a second pulse beneath the first. The notification wasn’t for her. It was a memory, auto-generated from three years ago today: a photo of a bridge she’d never crossed with a caption she didn’t write. Her own life, served back to her, slightly wrong.
+
+
 
 I’m on the stoop of 471, fingers tracing the cool, gritty iron of the railing. Watching. Ms. Clara from 469 is arguing with a delivery bot, her arms folded tight across her housecoat. The bot’s single, placid blue eye blinks at her, unmoved. “It says *front door*,” she’s insisting, voice sharp enough to cut glass. “This is the front door. Not the sidewalk. My knees are seventy-two years old, you think I’m coming down there?” The bot repeats its pre-programmed line about delivery zones in a smooth, gender-neutral tone. This is the most interesting thing that’s happened all afternoon.
 
@@ -217,6 +221,8 @@ I nod along, but part of me is already pulling back, watching us from the ceilin
 But I let him talk. I let the hope fill the room, sweet and thick as the smell of pot roast. Just for tonight.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The forms are a kind of violence. PDFs with tiny, bureaucratic typefaces, asking questions that have no right answers. *Describe the architectural significance. List notable events held at the location. Provide a rationale for preservation in the context of contemporary urban planning goals.*
@@ -390,6 +396,8 @@ I stop typing. I put the phone away. I watch a barge move slowly down the canal,
 Then I turn and walk back toward the city, toward the light, toward the fight waiting in a fluorescent-lit room. One step at a time. Pulled forward not by hope, but by a stubborn, furious refusal to let the code be overwritten without a goddamn comment.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The Community Center on Denton Avenue smells like floor wax and anxiety. It’s a low, brick building from the 1970s, with windows that don’t open and acoustic tiles stained yellow from decades of cigarette smoke, back when you could smoke anywhere. Now, the air is thick with the scent of cheap coffee and damp wool.
